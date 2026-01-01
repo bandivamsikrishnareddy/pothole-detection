@@ -29,3 +29,4 @@ __pycache__/
 
 *.yaml
 *.pt
+test_images/

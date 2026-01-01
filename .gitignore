@@ -3,3 +3,26 @@
 *.pkl
 dataset/
 .DS_Store
+# data (raw + processed)
+data/
+
+# training outputs
+outputs/
+runs/
+
+# model artifacts
+models/*.pt
+models/*.onnx
+
+# notebooks runtime
+.ipynb_checkpoints/
+
+# environment
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# system
+.DS_Store
